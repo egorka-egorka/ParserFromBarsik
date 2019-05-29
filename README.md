@@ -1,0 +1,1 @@
+dolgosrok

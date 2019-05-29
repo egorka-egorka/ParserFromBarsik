@@ -1,0 +1,15 @@
+{
+  "name": "egorka-egorka/ParserFromBarsik",
+  "description": "parsing youla.ru",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "elegant",
+      "email": "egorrogogin1999@mail.ru"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
