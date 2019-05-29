@@ -8,5 +8,10 @@
 
 class parsing
 {
+    private $html;
 
+    function getHTML(){
+
+        return $this->html;
+    }
 }
